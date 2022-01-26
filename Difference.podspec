@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = "Difference"
   s.version      = "1.0.0"
-  s.summary      = "Better way to identify whats different between 2 instances."
+  s.summary      = "Better way to identify what's different between 2 instances."
   s.description  = <<-DESC
-    Better way to identify whats different between 2 instances. Based on Mirror API.
+    Better way to identify what's different between 2 instances. Based on Mirror API.
   DESC
   s.homepage     = "https://github.com/krzysztofzablocki/Difference"
   s.license      = { :type => "MIT", :file => "LICENSE" }
